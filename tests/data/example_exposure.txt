@@ -1,0 +1,9 @@
+id,assetCategory,Description,stcoType,stcoUnit,areaType,areaUnit,cocoType,cocoUnit
+PAV01,buildings,Collection of existing building in downtown Pavia,aggregated,USD,per_asset,GBP,per_area,CHF
+
+lon,lat,taxonomy,stco,number,area,reco,coco,occupants,deductible,limit
+28.6925,40.9775,RC_MR_LC,40000,50,1500,4000,1000,10,0.05,32000
+28.6975,40.9825,RC_MR_LC,300000,100,1000,30000,2000,15,0.10,240000
+28.7025,41.0525,RC_MR_LC,150000,60,1650,15000,1000,9,0.10,120000
+28.7025,40.9975,RC_MR_LC,62000,30,300,6200,3000,18,0.15,49600
+28.7025,40.9925,RC_MR_LC,900000,100,1560,90000,1500,13,0.05,720000
